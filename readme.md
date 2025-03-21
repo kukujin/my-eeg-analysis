@@ -51,12 +51,3 @@ Implement machine learning for EEG classification.
 Optimize data processing pipeline.
 
 Improve visualization techniques.
-
-Author
-
-[Your Name]
-
-Acknowledgments
-
-Special thanks to the open-source contributors of the MNE library for making EEG analysis accessible.
-
