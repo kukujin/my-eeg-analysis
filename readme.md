@@ -43,11 +43,3 @@ python eeg_analysis.py
 Sample Results
 
 (Include EEG signal plots or analysis results here)
-
-Future Improvements
-
-Implement machine learning for EEG classification.
-
-Optimize data processing pipeline.
-
-Improve visualization techniques.
