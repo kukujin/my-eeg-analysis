@@ -43,3 +43,6 @@ python eeg_analysis.py
 Sample Results
 
 (Include EEG signal plots or analysis results here)
+![Figure_1](https://github.com/user-attachments/assets/6b551c0f-27cf-4a3d-bf60-d5d7fee86641)
+![Figure2](https://github.com/user-attachments/assets/ac1d9f89-4536-4eea-b518-9be82fd08ff2)
+![Figure_3](https://github.com/user-attachments/assets/7aa4fbc2-7a1f-4818-976e-2e99db750ee3)
